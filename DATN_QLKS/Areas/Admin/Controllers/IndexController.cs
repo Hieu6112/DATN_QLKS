@@ -169,7 +169,8 @@ namespace DATN_QLKS.Areas.Admin.Controllers
                     {
                         //string path = AppDomain.CurrentDomain.BaseDirectory + "Uploads/";  
                         //string filename = Path.GetFileName(Request.Files[i].FileName);  
-
+                       //abc
+                        
                         HttpPostedFileBase file = files[i];
                         string fname;
 
